@@ -101,10 +101,6 @@ Access the web app at http://127.0.0.1:5000/
 🔹 Advanced NLP with BERT/GPT models
 🔹 Integration with real-time job portals
 
-# 🤝 Contributors
-
-👤 Harsh Kumar – AI/ML Engineer
-
 # 📝 License
 
 This project is open-source under the MIT License.
