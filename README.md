@@ -69,7 +69,7 @@ With 99.48% accuracy achieved using SVM (Support Vector Machine), this system si
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-repo/AI-Resume-Screener.git
+git clone https://github.com/amritash1403/AI-resume-screener.git
 cd AI-Resume-Screener
 
 2️⃣ Create a Virtual Environment
